@@ -1,9 +1,14 @@
 # city-street
 
 ## Инструменты:
-Фреймворк для обработки http запросов Django +
+### Фреймворк для обработки http запросов 
+Django +
 Django Rest Framework
-БД - PostgreSQL
+
+
+###БД:
+
+PostgreSQL
 
 login: admin
 password: admin
